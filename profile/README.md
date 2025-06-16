@@ -12,6 +12,7 @@
 
 ---
 
+
 ## 📌 프로젝트 소개
 
 **Smapill**은 초고령 사회를 대비해 고령자의 복약 누락, 오복용, 복용 시간 혼동 등 문제를 해결하는  
@@ -19,7 +20,9 @@
 AI 스피커(라즈베리파이) + 스마트 전구 + 모바일 앱을 통해 복약 여부를 **음성/조명으로 확인**하고  
 보호자가 **실시간으로 복약 상태를 모니터링**할 수 있도록 설계되었습니다.
 
+
 ---
+
 
 ## 🔍 프로젝트 구조
 
@@ -37,6 +40,7 @@ AI 스피커(라즈베리파이) + 스마트 전구 + 모바일 앱을 통해 �
 
 ---
 
+
 ## 🎯 주요 기능
 
 | 기능 | 설명 |
@@ -47,7 +51,9 @@ AI 스피커(라즈베리파이) + 스마트 전구 + 모바일 앱을 통해 �
 | 👨‍👩‍👧 보호자 연동 | 보호자가 피보호자의 복약 상태를 앱으로 실시간 확인 |
 | 📱 모바일 앱 UI | 캘린더 기반 복약 관리, 사용자 전환, 보호자 승인 |
 
+
 ---
+
 
 ## 🛠 기술 스택
 
@@ -58,7 +64,9 @@ AI 스피커(라즈베리파이) + 스마트 전구 + 모바일 앱을 통해 �
 | AIoT | Google OCR API, Gemini API, pyttsx3, speech_recognition |
 | Infra | Raspberry Pi, Docker Swarm |
 
+
 ---
+
 
 ## 🧠 시스템 아키텍처
 - 사용자가 “약 먹었어요”라고 말하면 AI 스피커가 이를 인식하고, 전구가 녹색으로 변하며 복약 완료가 시각적으로 표시됩니다.
@@ -82,6 +90,7 @@ Spring Boot 서버 → Flask 전구 제어 API
 
 ---
 
+
 ## 🌟 기대 효과
 - 복약 인증을 음성+전구+서버 기록으로 자동화 → 돌봄 인력 부담 감소
 - 보호자가 외부에서도 복약 여부 실시간 확인 가능
@@ -90,17 +99,22 @@ Spring Boot 서버 → Flask 전구 제어 API
 
 ---
 
+
 ## 🖥 시연 영상
 
 👉 [유튜브로 보기](https://youtu.be/EOiXL8MI7JM)
 
+
 ---
+
 
 ## 🔗 관련 링크
 - GitHub: [https://github.com/GCU-smapill](https://github.com/GCU-smapill)
 - Notion: [https://likeable-discovery-567.notion.site/gcu-smapill)
 
+
 ---
+
 
 ## 🤝 팀 소개
 
@@ -111,7 +125,10 @@ Spring Boot 서버 → Flask 전구 제어 API
 | 이윤서 | AI, IoT | [@lyssva345](https://github.com/lyssva345) |
 | 방서현 | IoT | [@bbbbnag](https://github.com/bbbbnag) |
 
+
 ---
+
+
 
 > “약 걱정 없는 세상, 모두가 건강하게 나이 드는 사회”를 위한 AIoT 복약 파트너 – **Smapill** 🩵
 
