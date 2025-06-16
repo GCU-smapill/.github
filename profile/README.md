@@ -2,12 +2,6 @@
 ![image](https://github.com/user-attachments/assets/1c2cfe7a-02cb-4dd9-9b11-d344e7dc31a4)
 
 
-# 📘 Smapill - 실시간 복약 관리 IoT 시스템
-
-Smapill은 고령자의 복약 누락 문제를 해결하기 위해 개발된 AIoT 기반 복약 관리 시스템입니다.  
-AI 스피커와 스마트 전구, OCR 기술을 결합하여 음성과 조명을 통한 직관적인 복약 피드백을 제공하며,  
-보호자와 실시간 연동이 가능한 원격 의료 솔루션을 제공합니다.
-
 <h1 align="center">🩺 Smapill: AIoT 기반 실시간 복약 관리 시스템</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Raspberry%20Pi-red?logo=raspberrypi" />
